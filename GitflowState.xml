@@ -1,0 +1,9 @@
+<application>
+  <component name="GitflowState">
+    <option name="taskBranches">
+      <map>
+        <entry key="django-blog-2" value="feature/django-blog-2" />
+      </map>
+    </option>
+  </component>
+</application>
